@@ -16,14 +16,14 @@ global.xteam = 'apivproject'
 global.lolhuman = 'yourkey'
 
 // Other
-global.owner = ['6281252848955']
-global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = '© Zets'
-global.packname = '© Zetspublic'
-global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
+global.owner = ['6287793236775']
+global.premium = ['6287793236775']
+global.ownername = '𝙍𝙖𝙢𝙖 𝙊𝙬𝙣𝙚𝙧'
+global.botname = '© 𝙍𝙖𝙢𝙖𝘽𝙤𝙩𝙯'
+global.packname = '© 𝙍𝙖𝙢𝙖 𝙊𝙬𝙣𝙚𝙧'
+global.gc = 'https://chat.whatsapp.com/IcnbfEst6KK0UOaCJMh8E2'
+global.linkyt = 'https://youtube.com/channel/UCJNi-zXIsky4nheONnxoY1w'
+global.linkgc = 'https://chat.whatsapp.com/IcnbfEst6KK0UOaCJMh8E2'
 global.limitawal = '100'
 global.author = '@naando.jpeg\n@alya.xzy'
 global.sessionName = 'sessionya'
