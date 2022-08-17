@@ -1239,8 +1239,8 @@ db.data.chats[m.chat].antilink = false
 m.reply(`Antilink Tidak Aktif !`)
 } else {
  let buttons = [
-{ buttonId: 'antilink 𝙣𝙮𝙖𝙡𝙖𝙞𝙣', buttonText: { displayText: 'On' }, type: 1 },
-{ buttonId: 'antilink 𝙢𝙖𝙩𝙞𝙞𝙣', buttonText: { displayText: 'Off' }, type: 1 }
+{ buttonId: 'antilink on', buttonText: { displayText: 'On' }, type: 1 },
+{ buttonId: 'antilink off', buttonText: { displayText: 'Off' }, type: 1 }
 ]
 await zets.sendButtonText(m.chat, buttons, `Mode Antilink`, zets.user.name, m)
 }
