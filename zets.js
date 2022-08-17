@@ -1239,8 +1239,8 @@ db.data.chats[m.chat].antilink = false
 m.reply(`Antilink Tidak Aktif !`)
 } else {
  let buttons = [
-{ buttonId: 'antilink on', buttonText: { displayText: 'On' }, type: 1 },
-{ buttonId: 'antilink off', buttonText: { displayText: 'Off' }, type: 1 }
+{ buttonId: 'antilink 𝙣𝙮𝙖𝙡𝙖𝙞𝙣', buttonText: { displayText: 'On' }, type: 1 },
+{ buttonId: 'antilink 𝙢𝙖𝙩𝙞𝙞𝙣', buttonText: { displayText: 'Off' }, type: 1 }
 ]
 await zets.sendButtonText(m.chat, buttons, `Mode Antilink`, zets.user.name, m)
 }
@@ -2007,7 +2007,7 @@ zets.sendText(m.chat, `⌕ *Nama :* ${anu.message.nama}\n⌕ *Lahir :* ${anu.mes
 }
 break
 case 'keberuntungan': {
-if (!text) throw `Example : ${prefix + command} Dika, 7, 7, 2005`
+if (!text) throw `Example : ${prefix + command} aji, 1, 6, 2000`
 let [nama, tgl, bln, thn] = text.split`,`
 let anu = await primbon.potensi_keberuntungan(nama, tgl, bln, thn)
 if (anu.status == false) return m.reply(anu.message)
@@ -2678,10 +2678,10 @@ break
 
 case 'menu': case 'help': case '?': {
 addCountCmd(`#${command.slice(1)}`, sender, _cmd)
-buffer = `https://telegra.ph/file/e7962e067443d2a5bd10b.jpg`
+buffer = `https://telegra.ph/file/0a3e323d0085411b2fe2a.jpg`
 anu = `Hai kak ${pushname}, have a nice day:)
    
-✘ *INFO - BOT*
+✘ *INFO - RAMABOTZ*
 ⫹⫺ *Bot Name:* _${global.botname}_
 ⫹⫺ *Owner Name:* _${global.ownername}_
 ⫹⫺ *Runtime:* _${runtime(process.uptime())}_
