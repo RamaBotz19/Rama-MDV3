@@ -25,20 +25,20 @@ global.gc = 'https://chat.whatsapp.com/IcnbfEst6KK0UOaCJMh8E2'
 global.linkyt = 'https://youtube.com/channel/UCJNi-zXIsky4nheONnxoY1w'
 global.linkgc = 'https://chat.whatsapp.com/IcnbfEst6KK0UOaCJMh8E2'
 global.limitawal = '100'
-global.author = '@naando.jpeg\n@alya.xzy'
+global.author = '𝘼𝙟𝙞𝙞𝙞\n@Rama'
 global.sessionName = 'sessionya'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
-    success: 'Berhasil',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Tunggu sebentar, sedang di proses',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    success: '𝘽𝙀𝙍𝙃𝘼𝙎𝙄𝙇.....',
+    admin: '𝙁𝙄𝙏𝙐𝙍 𝙃𝘼𝙉𝙔𝘼 𝙐𝙉𝙏𝙐𝙆,𝘼𝘿𝙈𝙄𝙉',
+    botAdmin: '𝙅𝘼𝘿𝙄𝙆𝘼𝙉 𝘽𝙊𝙏 𝙎𝙀𝘽𝘼𝙂𝘼𝙄,𝘼𝘿𝙈𝙄𝙉..',
+    owner: '𝙁𝙄𝙏𝙐𝙍 𝙆𝙃𝙐𝙎𝙐𝙎 𝘼𝙅𝙄',
+    group: '𝙁𝙄𝙏𝙐𝙍 𝙃𝘼𝙉𝙔𝘼 𝙐𝙉𝙏𝙐𝙆 𝙂𝙍𝙐𝘽',
+    private: '𝙁𝙄𝙏𝙐𝙍 𝙆𝙃𝙐𝙎𝙐𝙎 𝘿𝙄, 𝙋𝘾/𝘾𝙋/𝙋𝙈',
+    bot: '𝙁𝙄𝙏𝙐𝙍 𝙆𝙃𝙐𝙎𝙐𝙎 𝙋𝙀𝙉𝙂𝙐𝙉𝘼 𝘽𝙊𝙏',
+    wait: '𝙎𝙀𝘿𝘼𝙉𝙂 𝘿𝙄 𝙋𝙍𝙊𝙎𝙀𝙎...',
+    endLimit: '𝙇𝙄𝙈𝙄𝙏 𝙃𝘼𝙍𝙄𝘼𝙉 𝘼𝙉𝘿𝘼 𝙏𝙀𝙇𝘼𝙃 𝙃𝘼𝘽𝙄𝙎, 𝙍𝙄𝙎𝙀𝙏 𝙋𝘼𝘿𝘼 𝙅𝘼𝙈 12 𝙈𝘼𝙇𝘼𝙈',
 }
 global.limitawal = {
     premium: "Infinity",
