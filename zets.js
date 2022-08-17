@@ -31,8 +31,8 @@ let setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
 limitawal = '100'
-botname = 'ZETS - MD'
-wm = '© ZETS - MD'
+botname = '𝙍𝙖𝙢𝙖𝘽𝙤𝙩𝙯'
+wm = '© 𝙍𝙖𝙢𝙖'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
@@ -244,7 +244,7 @@ timezone: "Asia/Jakarta"
 	let setting = global.db.data.settings[botNumber]
 	if (new Date() * 1 - setting.status > 1000) {
 		let uptime = await runtime(process.uptime())
-		await zets.setStatus(`${zets.user.name} | Runtime : ${runtime(uptime)}`)
+		await zets.setStatus(`${rama.user.name} | Runtime : ${runtime(uptime)}`)
 		setting.status = new Date() * 1
 	}
 	}
@@ -672,7 +672,7 @@ Dont Forget Donate
 	let btn = [{
 urlButton: {
 displayText: 'Instagram',
-url: 'https://instagram.com/naando.jpeg'
+url: 'https://instagram.com/ahmdzakaria47'
 }
 }]
 zets.send5ButImg(m.chat, anu, botname, global.sc, btn)
@@ -697,7 +697,7 @@ Alya
 	let btn = [{
 urlButton: {
 displayText: 'Instagram',
-url: 'https://instagram.com/naando.jpeg'
+url: 'https://instagram.com/ahmdzakaria47'
 }
 }]
 zets.send5ButImg(m.chat, anu, botname, global.tq, btn)
@@ -1304,7 +1304,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'Source Code',
-url: 'https://github.com/DikaArdnt/zets-Morou'
+url: 'https://github.com/RamaBotz99'
 }
 }]
   let txt = `「 Broadcast Bot 」\n\n${text}`
@@ -1323,7 +1323,7 @@ m.reply(`Mengirim Broadcast Ke ${anu.length} Chat\nWaktu Selesai ${anu.length * 
 		let btn = [{
 urlButton: {
 displayText: 'Source Code',
-url: 'https://github.com/DikaArdnt/zets-Morou'
+url: 'https://github.com/RamaBotz99'
 }
 }]
   let txt = `「 Broadcast Bot 」\n\n${text}`
@@ -1596,7 +1596,7 @@ var total = 0
 for (let o of _cmd) {
   total = total + o.count
 }
-var teks = `*ZETS BOT DASHBOARD*\n\n*HIT*\n• GLOBAL : ${total}\n• USER : ${totalUser}\n\n`
+var teks = `*𝙍𝘼𝙈𝘼𝘽𝙊𝙏𝙕 DASHBOARD*\n\n*HIT*\n• GLOBAL : ${total}\n• USER : ${totalUser}\n\n`
 teks += `*Most Command Global*\n`
 for (let u = 0; u < jumlahCmd; u ++) {
   teks += `• ${_cmd[u].nama} : ${_cmd[u].count}\n`
